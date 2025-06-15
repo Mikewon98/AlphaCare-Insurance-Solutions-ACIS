@@ -4,4 +4,4 @@
 
 # Ignore all CSV files inside 'data' folder and subfolders
 data/**/*.csv
-notebook/Data/**
+notebook/Data/interim/
